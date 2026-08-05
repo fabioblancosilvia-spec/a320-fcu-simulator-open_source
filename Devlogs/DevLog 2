@@ -1,0 +1,13 @@
+Devlog: 2
+
+04/08/2026
+
+With this log, I want to update you on two main things:
+
+I’ve created the mounts for the buttons and encoders behind the panel; these mounts will be easily removable in case they break or I want to modify them (perhaps in a future project I could add the “pull” function found on the real FCU—I’m not doing it now because it’s very difficult).
+I’ve started thinking about how to handle the button labels; on the real Airbus, labels like “AP1” or “AP2” are printed in white, but my printer doesn’t have an AMS, so printing the text will be tricky—I think I’ll write them on using white correction fluid.
+WHAT TO EXPECT IN FUTURE DEVLOGS:
+
+updates on how I’ll handle the labeling
+starting the PCB work (I’ll likely use an ESP32 microcontroller)
+choosing the two screens.
