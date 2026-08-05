@@ -1,0 +1,12 @@
+DevLog 3 05/08/2026
+In this devlog, I want to show you three updates:
+
+I’ve made the supports more modular and easily detachable from the main panel, so if one breaks, I can easily replace it. I’ve also started designing them with a pull system similar to the real A320 FCU.
+I’ve created the rear panel, which will also be very modular. It will be mounted using a slot with two rails behind it and will be held in place by the upper panel.
+I corrected the positions of three knobs because I realized that their measurements were incorrect. I adjusted their positions to make the layout more accurate and closer to the real A320 FCU.
+WHAT TO EXPECT IN DEVLOG 5:
+-Upper panel, as similar as possible to the real thing
+
+-Start or finish the knob pull system, which will be spring-loaded
+
+-Continue improving the modular design
